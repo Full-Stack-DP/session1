@@ -11,7 +11,7 @@ The video homework uses emojis to represent the significance of each video. Belo
 | **Difficulty**| Easy                  | :blush:        |
 |               | Challenging           | :sweat_smile:        |
 
-### Tuesday Morning:
+### Week 2: Morning:
 
 - :star: [Learn JavaScript CALLBACKS in 7 minutes!](https://www.youtube.com/watch?v=i2SPq-nb3NQ)
 - :star: [JavaScript filter() method in 6 minutes!](https://youtu.be/VvSEKHKFvpQ?si=zaVlb_PZKYOEquG2)
@@ -20,7 +20,7 @@ The video homework uses emojis to represent the significance of each video. Belo
 - :star: [How The Web Works: (12 min)]
 - :star: [HTTP Methods: (3 min)] 
 
-### Tuesday Afternoon: 
+### Week 2: Afternoon: 
 
 - Please [download](https://www.postman.com/downloads/) and install Postman on your machine, then [register](https://www.postman.com/) to access and use Postman for free.
 - :bell: [Learn Postman in 15 Minutes]

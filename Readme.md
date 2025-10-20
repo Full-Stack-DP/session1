@@ -92,7 +92,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 <summary>Links used in the Lecture</summary>
 
 - https://excalidraw.com/
-- Presentation: Google Slides or https://gamma.app/products/presentations
+- 
 
 </details>
 
