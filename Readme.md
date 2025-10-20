@@ -12,12 +12,7 @@
 > - [9 Proven Time Management Techniques and Tools](https://www.usa.edu/blog/time-management-techniques/)
 > - [Effective prompt for learning with an LLM](https://gist.github.com/Dowwie/5a66cd8df639e4c98043fc7f507dab9e)
 > - [How Stanford Teaches AI-Powered Creativity (13min)](https://youtu.be/wv779vmyPVY?feature=shared&t=185)
-> - Tools for Developers
->   - [web utilities for developers, designers, and creators](https://webutils.io/about)
->   - [Developer Cheat Sheets](https://www.devsheets.io/)
->   - [Design and UI resources](https://github.com/bradtraversy/design-resources-for-developers)
->   - [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers)
-
+> - [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 ------
 
