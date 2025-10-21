@@ -3,8 +3,7 @@
 
 > [!IMPORTANT]  
 > - [Homework before Session 2](./material/Homework.md)
-> - [Zoom Recordings](#)
-<!-- 7#wa976=Q# -->
+> - [Zoom Recordings](https://metropoliafi-my.sharepoint.com/:f:/g/personal/samiben_metropolia_fi/EramjTltA_BOni_R40opXRQBTQ1_gK6EWP2cbcX5G63ghA)
 
 ----
 
