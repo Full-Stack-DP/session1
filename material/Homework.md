@@ -13,15 +13,6 @@ The video homework uses emojis to represent the significance of each video. Belo
 
 ### Week 2: Morning:
 
-- :star: [Learn JavaScript CALLBACKS in 7 minutes!](https://www.youtube.com/watch?v=i2SPq-nb3NQ)
-- :star: [JavaScript filter() method in 6 minutes!](https://youtu.be/VvSEKHKFvpQ?si=zaVlb_PZKYOEquG2)
-- :blue_book: [JavaScript: Filter and Find (15 min)](https://youtu.be/KeYxsev737s)
-- :star: [Express JS Crash Course: 58min](https://youtu.be/L72fhGm1tfE): The section on middleware (**from 23:53 to 31:10**) will be covered in week 3.
-- :star: [How The Web Works: (12 min)]
-- :star: [HTTP Methods: (3 min)] 
-
-### Week 2: Afternoon: 
-
 - Please [download](https://www.postman.com/downloads/) and install Postman on your machine, then [register](https://www.postman.com/) to access and use Postman for free.
 - :bell: [Learn Postman in 15 Minutes]
 - JavaScript:
@@ -32,6 +23,16 @@ The video homework uses emojis to represent the significance of each video. Belo
 - Git & GitHub
   - [Part 1: Git (Duration **36 min**)](https://www.youtube.com/watch?v=hrTQipWp6co)
   - [Part 2: GitHub (Duration **56 min**)](https://www.youtube.com/watch?v=1ibmWyt8hfw)
+
+
+### Week 2: Afternoon: 
+
+- :star: [Learn JavaScript CALLBACKS in 7 minutes!](https://www.youtube.com/watch?v=i2SPq-nb3NQ)
+- :star: [JavaScript filter() method in 6 minutes!](https://youtu.be/VvSEKHKFvpQ?si=zaVlb_PZKYOEquG2)
+- :blue_book: [JavaScript: Filter and Find (15 min)](https://youtu.be/KeYxsev737s)
+- :star: [Express JS Crash Course: 58min](https://youtu.be/L72fhGm1tfE): The section on middleware (**from 23:53 to 31:10**) will be covered in week 3.
+- :star: [How The Web Works: (12 min)]
+- :star: [HTTP Methods: (3 min)] 
 
 ----
 
